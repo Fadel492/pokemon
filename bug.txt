@@ -1,3 +1,4 @@
 "fichier de Bug.txt"
 firstname=toto
 lastname=titi
+psswd=abcd
