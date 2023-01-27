@@ -1,1 +1,3 @@
 "fichier de Bug.txt"
+firstname=toto
+lastname=titi
