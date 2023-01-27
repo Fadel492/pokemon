@@ -1,4 +1,6 @@
 "fichier de Bug.txt"
 firstname=toto
 lastname=titi
+<<<<<<< HEAD
 psswd=abcd
+
